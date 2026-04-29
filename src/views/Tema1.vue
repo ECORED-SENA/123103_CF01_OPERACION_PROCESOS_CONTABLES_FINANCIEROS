@@ -533,7 +533,7 @@
       .col-xl
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
           .row(titulo="¿Qué es el calendario tributario?").ajuste-cajaAcordion
-            p.mb-3 Es el decreto que el Gobierno Nacional expide cada año para establecer las fechas límite de declaración y pago de los impuestos administrados por la autoridad fiscal. Esto permite organizar los vencimientos. Planificar las obligaciones fiscales y evita sanciones e intereses de mora.
+            p.mb-3 Es el decreto que el Gobierno Nacional expide cada año para establecer las fechas límite de declaración y pago de los impuestos administrados por la autoridad fiscal. Esto permite organizar los vencimientos. Planificar las obligaciones fiscales y evitar sanciones e intereses de mora.
           .row(titulo="Norma que regula los plazos (Decreto 2229 de 2023)").ajuste-cajaAcordion
             p.mb-3 Modifica el Decreto Único Reglamentario 1625 de 2016, el cual establece fechas de vencimiento, organización por últimos dígitos del NIT y diferenciación de tipos de contribuyentes.
           .row(titulo="Principales impuestos incluidos").ajuste-cajaAcordion
@@ -563,7 +563,7 @@
                       td.ajuste-border-tabla.texto-left 05 – 06
                       td.texto-left Fecha 3
           .row(titulo="Impuestos territoriales").ajuste-cajaAcordion
-            p.mb-3 Además de los impuestos nacionales, los municipios establecen sus propios plazos para: el impuesto predial, el impuesto de industria y comercio (ICA).
+            p.mb-3 Además de los impuestos nacionales, los municipios establecen sus propios plazos para el impuesto predial, el impuesto de industria y comercio (ICA).
     p.mb-5 Para realizar una excelente planificación financiera de los tributos y evitar sanciones, es necesario integrar calendarios nacionales y locales.
     .row
       .col-xl-6(data-aos="zoom-in")

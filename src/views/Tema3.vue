@@ -260,7 +260,7 @@
                 td.ajuste-border-tabla.texto-left Revisar
                 td.texto-left Revisar en Anticipo
         .caja-intro(data-aos="zoom-in")
-          p.mb-0 En este capítulo se estudió la depuración del impuesto, se usaron hojas de cálculo para parametrizar variables, consolidar información y aplicar controles. Los valores pueden trasladarse al formulario, dando paso al siguiente subtema que es el diligenciamiento y presentación de la declaración.
+          p.mb-0 En este capítulo se estudió la depuración del impuesto, se usaron hojas de cálculo para parametrizar variables, consolidar información y aplicar controles. Los valores pueden trasladarse al formulario, dando paso al siguiente subtema, que es el diligenciamiento y presentación de la declaración.
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.3	Paso a paso general para elaborar declaraciones de renta

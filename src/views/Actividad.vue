@@ -39,12 +39,12 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Estatuto Tributario – Decreto 624 de 1989.',
+              texto: 'Estatuto Tributario – Decreto 624 de 1989',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Decreto 1625 de 2016 – Mateira Tributaria.',
+              texto: 'Decreto 1625 de 2016 – Mateira Tributaria',
               esCorrecta: false,
             },
             {
@@ -64,11 +64,11 @@ export default {
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'DIAN.', esCorrecta: true },
-            { id: 'b', texto: 'Ministerio de Comercio.', esCorrecta: false },
-            { id: 'c', texto: 'Banco de la República.', esCorrecta: false },
+            { id: 'b', texto: 'Ministerio de Comercio', esCorrecta: false },
+            { id: 'c', texto: 'Banco de la República', esCorrecta: false },
             {
               id: 'd',
-              texto: 'Superintendencia de Sociedades.',
+              texto: 'Superintendencia de Sociedades',
               esCorrecta: false,
             },
           ],
@@ -82,10 +82,10 @@ export default {
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Plan contable.', esCorrecta: false },
-            { id: 'b', texto: 'Balance general.', esCorrecta: false },
-            { id: 'c', texto: 'Sujeto activo.', esCorrecta: true },
-            { id: 'd', texto: 'Estado de resultados.', esCorrecta: false },
+            { id: 'a', texto: 'Plan contable', esCorrecta: false },
+            { id: 'b', texto: 'Balance general', esCorrecta: false },
+            { id: 'c', texto: 'Sujeto activo', esCorrecta: true },
+            { id: 'd', texto: 'Estado de resultados', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Su respuesta es correcta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta es incorrecta.',
@@ -98,22 +98,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'El valor que paga el contribuyente a ala DIAN.',
+              texto: 'El valor que paga el contribuyente a ala DIAN',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'La entidad que recauda el impuesto, como la DIAN.',
+              texto: 'La entidad que recauda el impuesto, como la DIAN',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'La situación que origina la obligación tributaria.',
+              texto: 'La situación que origina la obligación tributaria',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'El periodo contable del contribuyente.',
+              texto: 'El periodo contable del contribuyente',
               esCorrecta: false,
             },
           ],
@@ -128,23 +128,23 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'El porcentaje del tributo, que depende de las tarifas.',
+              texto: 'El porcentaje del tributo, que depende de las tarifas',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'El nombre del contribuyente dependiente del impuesto.',
+              texto: 'El nombre del contribuyente dependiente del impuesto',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'El valor sobre el cual se calcula el impuesto.',
+              texto: 'El valor sobre el cual se calcula el impuesto',
               esCorrecta: true,
             },
             {
               id: 'd',
               texto:
-                'El formulario de declaración, el cual, se registra en línea.',
+                'El formulario de declaración, el cual, se registra en línea',
               esCorrecta: false,
             },
           ],
@@ -171,10 +171,10 @@ export default {
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'IVA.', esCorrecta: false },
-            { id: 'b', texto: 'Impuesto al consumo..', esCorrecta: false },
-            { id: 'c', texto: 'Peajes.', esCorrecta: false },
-            { id: 'd', texto: 'Impuesto de renta.', esCorrecta: true },
+            { id: 'a', texto: 'IVA', esCorrecta: false },
+            { id: 'b', texto: 'Impuesto al consumo', esCorrecta: false },
+            { id: 'c', texto: 'Peajes', esCorrecta: false },
+            { id: 'd', texto: 'Impuesto de renta', esCorrecta: true },
           ],
           mensaje_correcto: '¡Muy bien! Su respuesta es correcta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta es incorrecta.',
@@ -186,14 +186,14 @@ export default {
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Régimen ordinario.', esCorrecta: false },
-            { id: 'b', texto: 'Régimen especial.', esCorrecta: false },
+            { id: 'a', texto: 'Régimen ordinario', esCorrecta: false },
+            { id: 'b', texto: 'Régimen especial', esCorrecta: false },
             {
               id: 'c',
-              texto: 'Régimen simple de tributación.',
+              texto: 'Régimen simple de tributación',
               esCorrecta: true,
             },
-            { id: 'd', texto: 'Régimen transitorio.', esCorrecta: false },
+            { id: 'd', texto: 'Régimen transitorio', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Su respuesta es correcta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta es incorrecta.',
@@ -204,10 +204,10 @@ export default {
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Régimen ordinario.', esCorrecta: false },
-            { id: 'b', texto: 'Régimen especial.', esCorrecta: true },
-            { id: 'c', texto: 'Régimen simple.', esCorrecta: false },
-            { id: 'd', texto: 'Régimen territorial.', esCorrecta: false },
+            { id: 'a', texto: 'Régimen ordinario', esCorrecta: false },
+            { id: 'b', texto: 'Régimen especial', esCorrecta: true },
+            { id: 'c', texto: 'Régimen simple', esCorrecta: false },
+            { id: 'd', texto: 'Régimen territorial', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Su respuesta es correcta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta es incorrecta.',
@@ -219,12 +219,12 @@ export default {
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Estatuto Tributario.', esCorrecta: false },
-            { id: 'b', texto: 'Código de Comercio.', esCorrecta: false },
-            { id: 'c', texto: 'Calendario tributario.', esCorrecta: true },
+            { id: 'a', texto: 'Estatuto Tributario', esCorrecta: false },
+            { id: 'b', texto: 'Código de Comercio', esCorrecta: false },
+            { id: 'c', texto: 'Calendario tributario', esCorrecta: true },
             {
               id: 'd',
-              texto: 'Plan Nacional de Desarrollo.',
+              texto: 'Plan Nacional de Desarrollo',
               esCorrecta: false,
             },
           ],
@@ -241,25 +241,25 @@ export default {
             {
               id: 'a',
               texto:
-                'Organizar y respaldar los datos que se declaran ante la DIAN.',
+                'Organizar y respaldar los datos que se declaran ante la DIAN',
               esCorrecta: true,
             },
             {
               id: 'b',
               texto:
-                'Evitar registrar ingresos y duplicidad de información financiera.',
+                'Evitar registrar ingresos y duplicidad de información financiera',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Reducir impuestos ilegalmente y de esta manera no desfinanciar los ingresos del estado.',
+                'Reducir impuestos ilegalmente y de esta manera no desfinanciar los ingresos del estado',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Eliminar documentos contables, de acuerdo con las tablas de retención documental.',
+                'Eliminar documentos contables, de acuerdo con las tablas de retención documental',
               esCorrecta: false,
             },
           ],
@@ -273,10 +273,10 @@ export default {
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: '1 año.', esCorrecta: false },
-            { id: 'b', texto: '3 años.', esCorrecta: false },
-            { id: 'c', texto: '5 años.', esCorrecta: true },
-            { id: 'd', texto: '10 años.', esCorrecta: false },
+            { id: 'a', texto: '1 año', esCorrecta: false },
+            { id: 'b', texto: '3 años', esCorrecta: false },
+            { id: 'c', texto: '5 años', esCorrecta: true },
+            { id: 'd', texto: '10 años', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Su respuesta es correcta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta es incorrecta.',
@@ -287,10 +287,10 @@ export default {
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Impuesto de renta.', esCorrecta: false },
-            { id: 'b', texto: 'IVA.', esCorrecta: false },
-            { id: 'c', texto: 'Peaje por uso de carretera.', esCorrecta: true },
-            { id: 'd', texto: 'Impuesto al patrimonio.', esCorrecta: false },
+            { id: 'a', texto: 'Impuesto de renta', esCorrecta: false },
+            { id: 'b', texto: 'IVA', esCorrecta: false },
+            { id: 'c', texto: 'Peaje por uso de carretera', esCorrecta: true },
+            { id: 'd', texto: 'Impuesto al patrimonio', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Su respuesta es correcta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta es incorrecta.',
@@ -302,10 +302,10 @@ export default {
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Impuesto indirecto.', esCorrecta: false },
-            { id: 'b', texto: 'Contribución parafiscal.', esCorrecta: true },
-            { id: 'c', texto: 'Tasa municipal oficial.', esCorrecta: false },
-            { id: 'd', texto: 'Impuesto directo.', esCorrecta: false },
+            { id: 'a', texto: 'Impuesto indirecto', esCorrecta: false },
+            { id: 'b', texto: 'Contribución parafiscal', esCorrecta: true },
+            { id: 'c', texto: 'Tasa municipal oficial', esCorrecta: false },
+            { id: 'd', texto: 'Impuesto directo', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Su respuesta es correcta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta es incorrecta.',
@@ -319,25 +319,25 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verificar que la información sea correcta y utilizable.',
+              texto: 'Verificar que la información sea correcta y utilizable',
               esCorrecta: true,
             },
             {
               id: 'b',
               texto:
-                'Eliminar documentos antiguos para evitar la generación de informes desactualizados.',
+                'Eliminar documentos antiguos para evitar la generación de informes desactualizados',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Reducir el número de facturas, en el marco de la política de cero papel.',
+                'Reducir el número de facturas, en el marco de la política de cero papel',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Aumentar los impuestos para incrementar los ingresos del estado.',
+                'Aumentar los impuestos para incrementar los ingresos del estado',
               esCorrecta: false,
             },
           ],
@@ -354,25 +354,25 @@ export default {
             {
               id: 'a',
               texto:
-                'Incrementar la carga fiscal sobre contribuyentes con ingresos en el exterior.',
+                'Incrementar la carga fiscal sobre contribuyentes con ingresos en el exterior',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Eliminar la obligación de declarar impuestos sobre ingresos obtenidos internacionalmente.',
+                'Eliminar la obligación de declarar impuestos sobre ingresos obtenidos internacionalmente',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Evitar la doble tributación en operaciones realizadas entre diferentes países.',
+                'Evitar la doble tributación en operaciones realizadas entre diferentes países',
               esCorrecta: true,
             },
             {
               id: 'd',
               texto:
-                'Establecer sanciones automáticas para contribuyentes con operaciones internacionales.',
+                'Establecer sanciones automáticas para contribuyentes con operaciones internacionales',
               esCorrecta: false,
             },
           ],
@@ -389,25 +389,25 @@ export default {
             {
               id: 'a',
               texto:
-                'Determinar directamente el impuesto sobre la renta de todos los contribuyentes.',
+                'Determinar directamente el impuesto sobre la renta de todos los contribuyentes',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Establecer valores de referencia para sanciones y obligaciones tributarias anuales.',
+                'Establecer valores de referencia para sanciones y obligaciones tributarias anuales',
               esCorrecta: true,
             },
             {
               id: 'c',
               texto:
-                'Definir la clasificación de los contribuyentes según su actividad económica.',
+                'Definir la clasificación de los contribuyentes según su actividad económica',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Calcular los ingresos brutos de las empresas en cada periodo fiscal.',
+                'Calcular los ingresos brutos de las empresas en cada periodo fiscal',
               esCorrecta: false,
             },
           ],
@@ -424,25 +424,25 @@ export default {
             {
               id: 'a',
               texto:
-                'Gravan directamente los ingresos y patrimonio del contribuyente obligado al pago.',
+                'Gravan directamente los ingresos y patrimonio del contribuyente obligado al pago',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Se aplican únicamente a empresas con actividades económicas internacionales.',
+                'Se aplican únicamente a empresas con actividades económicas internacionales',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Se calculan sobre la utilidad neta después de costos y deducciones fiscales.',
+                'Se calculan sobre la utilidad neta después de costos y deducciones fiscales',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Se trasladan al consumidor final y gravan el consumo de bienes y servicios.',
+                'Se trasladan al consumidor final y gravan el consumo de bienes y servicios',
               esCorrecta: true,
             },
           ],
@@ -459,25 +459,25 @@ export default {
             {
               id: 'a',
               texto:
-                'Organizar y ubicar rápidamente los soportes que respaldan cada cifra declarada.',
+                'Organizar y ubicar rápidamente los soportes que respaldan cada cifra declarada',
               esCorrecta: true,
             },
             {
               id: 'b',
               texto:
-                'Reducir el número de documentos exigidos por la administración tributaria nacional.',
+                'Reducir el número de documentos exigidos por la administración tributaria nacional',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Sustituir el uso de sistemas contables en la elaboración de declaraciones fiscales.',
+                'Sustituir el uso de sistemas contables en la elaboración de declaraciones fiscales',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Evitar la revisión de la información por parte de la autoridad tributaria.',
+                'Evitar la revisión de la información por parte de la autoridad tributaria',
               esCorrecta: false,
             },
           ],
@@ -494,25 +494,25 @@ export default {
             {
               id: 'a',
               texto:
-                'Eliminar documentos antiguos sin revisar su relación con la declaración presentada.',
+                'Eliminar documentos antiguos sin revisar su relación con la declaración presentada',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Registrar información sin validación previa para agilizar el proceso tributario.',
+                'Registrar información sin validación previa para agilizar el proceso tributario',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Verificar periodo titularidad integridad consistencia y validez de cada documento.',
+                'Verificar periodo titularidad integridad consistencia y validez de cada documento',
               esCorrecta: true,
             },
             {
               id: 'd',
               texto:
-                'Modificar datos de los soportes para que coincidan con la declaración final.',
+                'Modificar datos de los soportes para que coincidan con la declaración final',
               esCorrecta: false,
             },
           ],

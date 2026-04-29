@@ -419,7 +419,7 @@
               figure
                 img(src='@/assets/curso/tema2/img30.jpg', alt='').m-auto
             .col-xl
-              p.mb-3 El Estatuto Tributario establece que los documentos del expediente deben conservarse por mínimo cinco años, contados desde el 1 de enero del año siguiente a su elaboración, expedición o recibo, y mantenerse disponibles para cuando la DIAN los requiera en procesos de control. Sobre el particular, se concluye:
+              p.mb-3 El Estatuto Tributario establece que los documentos del expediente deben conservarse por un mínimo de cinco años, contados desde el 1 de enero del año siguiente a su elaboración, expedición o recibo, y mantenerse disponibles para cuando la DIAN los requiera en procesos de control. Sobre el particular, se concluye:
               ul.fa-ul.estilo___ul.mb-0
                 li.mb-2
                   span.fa-li
