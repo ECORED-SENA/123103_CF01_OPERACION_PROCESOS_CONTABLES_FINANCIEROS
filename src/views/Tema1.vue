@@ -506,7 +506,7 @@
     p.mb-5 La clasificación correcta del sujeto pasivo asegura que los formularios electrónicos y la información exógena coincidan con la realidad económica reportada. A continuación, se presenta un ejercicio práctico que permite aplicar los conceptos estudiados sobre clasificación de contribuyentes y obligaciones tributarias según la naturaleza jurídica y actividad económica.
     figure(data-aos="zoom-in").mb-0
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/pOx5UBW7rHw?si=h-Xim76FqBNFDwgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption(data-aos="zoom-in") #[b Video]. Ejercicio práctico de clasificación de contribuyentes y obligaciones tributarias.
     Separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
